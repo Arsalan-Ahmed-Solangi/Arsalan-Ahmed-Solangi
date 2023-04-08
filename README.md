@@ -1,4 +1,4 @@
-### Hi there 👋
+
 [![An image of @arsalanahmedsolangi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arsalanahmedsolangi)](https://holopin.io/@arsalanahmedsolangi)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm  Arsalan Ahmed</h1>
