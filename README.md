@@ -56,6 +56,9 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+## 👨‍💻 Most Used Langages
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arsalan-Ahmed-Solangi&show_icons=true&locale=en" alt="Arsalan Ahmed Solangi" /></p>
+
 ## 😎 My Github Stats
 
   <br/>
