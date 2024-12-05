@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Graduated in BS- Software Engineer with 1st Position Gold Medalist<br>👨‍💻 All of my projects are available at Linked Portfolio<br>⭐ New on Fiverr Freelancer<br>🤠 Google play app developer (SmartLearningApps)<br>🏆 Completed more than 30 projects with National and International clients<br>🤠 Coded 1000+ hours<br>⭐ 20+ Repositories on GitHub<br>🌐 https://developerarsalanahmed.com/<br>📫 How to reach me https://www.linkedin.com/in/arsalan-ahmed-6b5536172/<br>⚡ Fun fact I love to write code ,I'm a quick learner and problem solver.
+🎓 Graduated in BS- Software Engineer with 1st Position<br>👨‍💻 All of my projects are available at Linked Portfolio<br>⭐ New on Fiverr Freelancer<br>🤠 Google play app developer (SmartLearningApps)<br>🏆 Completed more than 30 projects with National and International clients<br>🤠 Coded 1000+ hours<br>⭐ 50+ Repositories on GitHub<br>🌐 https://developerarsalanahmed.com/<br>📫 How to reach me https://www.linkedin.com/in/arsalan-ahmed-6b5536172/<br>⚡ Fun fact I love to write code ,I'm a quick learner and problem solver.
 
 
 ## 🌐 Socials:
