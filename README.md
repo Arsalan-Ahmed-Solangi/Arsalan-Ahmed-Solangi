@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/salmanmallah/salmanmallah/blob/main/PROGRAMER.gif" alt="MasterHead" width="500px">
+</p>
+
 <h1 align="center">Hi 👋, I'm Arsalan Ahmed</h1>  
 <h3 align="center">Passionate Software Engineer | Full-Stack Developer | Innovator</h3>  
 <h3 align="center">🧠 My mind operates in computational logic, where algorithms define my vernacular.</h3>
