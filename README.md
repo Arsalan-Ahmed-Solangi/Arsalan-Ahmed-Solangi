@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/salmanmallah/salmanmallah/blob/main/PROGRAMER.gif" alt="MasterHead" width="500px">
+  <img src="intro.png" alt="MasterHead" width="500px">
 </p>
 
 <h1 align="center">Hi 👋, I'm Arsalan Ahmed</h1>  
