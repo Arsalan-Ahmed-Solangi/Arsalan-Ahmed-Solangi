@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="intro.png" alt="MasterHead" width="500px">
+  <img src="intro.png" alt="Arsalan-Ahmed-Intro" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Arsalan Ahmed</h1>  
