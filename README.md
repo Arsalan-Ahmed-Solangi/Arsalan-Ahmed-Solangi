@@ -38,6 +38,14 @@
 
 ![](https://github-trophies.vercel.app/?username=Arsalan-Ahmed-Solangi&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
+# GitHub Achievements 🏆
+
+![Pull Shark](https://github.githubassets.com/images/modules/profile/badges/pull-shark-default.png)
+![YOLO](https://github.githubassets.com/images/modules/profile/badges/yolo-default.png)
+
+> **Pull Shark**: Earned for having your pull requests merged.  
+> **YOLO**: Earned for merging a pull request without code review.
+
 ### ✍️Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
