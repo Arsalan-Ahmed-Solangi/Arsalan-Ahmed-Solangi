@@ -36,7 +36,7 @@
 
 ## 🏆GitHub Trophies
 
-![](https://github-trophies.vercel.app/?username=Arsalan-Ahmed-Solangi&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=Arsalan-Ahmed-Solangi&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
 
