@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm Arsalan Ahmed</h1>
-<h3 align="center">Passionate Software Engineer | Full-Stack Developer | Innovator</h3>
+<h1 align="center">Hi 👋, I'm Arsalan Ahmed</h1>  
+<h3 align="center">Passionate Software Engineer | Full-Stack Developer | Innovator</h3>  
 <h3 align="center">🧠 My mind operates in computational logic, where algorithms define my vernacular.</h3>
 
-🎓 BS in Software Engineering | 1st Position Silver Medalist
-👨‍💻 Explore My Work: developerarsalanahmed.com
-🌟 New on Fiverr: Open for Freelance Projects
-📱 Google Play Developer: SmartLearningApps
-🏆 50+ Projects Completed | Collaborated with National & International Clients
-⌨️ 1000+ Hours of Coding | 50+ GitHub Repositories
+🎓 BS in Software Engineering | 1st Position Silver Medalist <br/>  
+👨‍💻 Explore My Work: <a href="https://developerarsalanahmed.com" target="_blank">developerarsalanahmed.com</a> <br/>  
+🌟 New on Fiverr: Open for Freelance Projects <br/>  
+📱 Google Play Developer: SmartLearningApps <br/>  
+🏆 50+ Projects Completed | Collaborated with National & International Clients <br/>  
+⌨️ 1000+ Hours of Coding | 50+ GitHub Repositories <br/>
 
-💡 Tech Stack & Expertise:
-📱 Application Development: Android Native (Java)
-🚀 Web Development: Next.js, Node.js, Express, React, Laravel , PHP , Web 3 , Python
-📊 Database: MySQL, AWS RDS, MongoDB, PostgreSQL
-🔐 InfoSec Enthusiast | DevOps & Cloud Computing
-🤝 Open to Collaboration on Open Source Projects
+💡 <strong>Tech Stack & Expertise:</strong> <br/>  
+📱 Application Development: Android Native (Java) <br/>  
+🚀 Web Development: Next.js, Node.js, Express, React, Laravel, PHP, Web 3, Python <br/>  
+📊 Database: MySQL, AWS RDS, MongoDB, PostgreSQL <br/>  
+🔐 InfoSec Enthusiast | DevOps & Cloud Computing <br/>  
+🤝 Open to Collaboration on Open Source Projects <br/>
 
-🏆 Awards & Achievements:
-🥇 Innovative Idea Award (2023): Recognized for developing an AI-based Geographic Information System (GIS) with an automated routing algorithm at Salesflo as a Software Engineer.
-⚡ Agile Award (2024): Honored for efficiently meeting customer needs and delivering high-quality solutions as a Senior Software Engineer.
+🏆 <strong>Awards & Achievements:</strong> <br/>  
+🥇 Innovative Idea Award (2023): Recognized for developing an AI-based Geographic Information System (GIS) with an automated routing algorithm at Salesflo as a Software Engineer. <br/>  
+⚡ Agile Award (2024): Honored for efficiently meeting customer needs and delivering high-quality solutions as a Senior Software Engineer. <br/>
 
 ⚡ Fun Fact: I love writing code, solving problems, and learning new technologies at lightning speed! 🚀
 
