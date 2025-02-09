@@ -1,4 +1,6 @@
-# 💫About Me :
+<h1 align="center">Hi 👋, I'm Arsalan Ahmed</h1>
+<h3 align="center">Passionate Software Engineer | Full-Stack Developer | Innovator</h3>
+<h3 align="center">🧠 My mind operates in computational logic, where algorithms define my vernacular.</h3>
 
 🎓 BS in Software Engineering | 1st Position Silver Medalist
 👨‍💻 Explore My Work: developerarsalanahmed.com
