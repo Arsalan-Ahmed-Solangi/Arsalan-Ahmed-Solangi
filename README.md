@@ -37,7 +37,9 @@
 
 ### [Route Creator Express](https://www.npmjs.com/package/route-creator-express)
 
-![Package Image](images/your-package-image.png)
+<p align="center">
+  <img src="npmpackage.png" alt="NPM Package" width="100%">
+</p>
 
 **Description:** The Router Creator is a CLI tool that allows you to quickly generate routing functionality for Express applications, similar to Laravel's routing system. It helps developers easily create route files with just one command, streamlining the setup of routes without needing to manually write them. The package supports ES6 modules and file extensions like .js, .ts, and .mjs.
 
