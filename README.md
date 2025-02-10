@@ -45,19 +45,25 @@
 ![npm](https://img.shields.io/npm/dt/route-creator-express)
 ![npm](https://img.shields.io/npm/l/route-creator-express)
 
+# 📊GitHub Stats & 🏆GitHub Trophies:
+
 <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Arsalan-Ahmed-Solangi&theme=react&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan-Ahmed-Solangi&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsalan-Ahmed-Solangi&theme=react&hide_border=true" alt="GitHub Streak" />
     </td>
+    
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsalan-Ahmed-Solangi&theme=react&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan-Ahmed-Solangi&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
     </td>
+ 
+  </tr>
+  <tr>
     <td>
       <img src="https://github-profile-trophy.vercel.app/?username=Arsalan-Ahmed-Solangi&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
     </td>
