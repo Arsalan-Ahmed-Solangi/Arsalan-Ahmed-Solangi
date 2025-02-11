@@ -19,7 +19,8 @@
 🔐 InfoSec Enthusiast | DevOps & Cloud Computing <br/>  
 🤝 Open to Collaboration on Open Source Projects <br/>
 
-🏆 <strong>Awards & Achievements:</strong> <br/>  
+## 🏆Awards & Achievements
+
 🥇 Innovative Idea Award (2023): Recognized for developing an AI-based Geographic Information System (GIS) with an automated routing algorithm at Salesflo as a Software Engineer. <br/>  
 ⚡ Agile Award (2024): Honored for efficiently meeting customer needs and delivering high-quality solutions as a Senior Software Engineer. <br/>
 
