@@ -11,13 +11,14 @@
   🏆 50+ Projects Completed | Collaborated with National & International Clients  <br/>
   ⌨️ 1000+ Hours of Coding | 50+ GitHub Repositories</p>
 
-💡 <strong>Tech Stack & Expertise:</strong> <br/>  
- 📱 Application Development: Android Native (Java) <br/>  
+💡 <strong>Tech Stack & Expertise:</strong> <br/>
+
+  <p>📱 Application Development: Android Native (Java) <br/>  
  🚀 Web Development: Next.js, Node.js, Express, React, Laravel, PHP, Web 3, Python <br/>  
  📊 Database: MySQL, AWS RDS, MongoDB, PostgreSQL <br/>  
  🔐 InfoSec Enthusiast | DevOps & Cloud Computing <br/>  
  🤝 Open to Collaboration on Open Source Projects <br/>
-⚡ Fun Fact: I love writing code, solving problems, and learning new technologies at lightning speed! 🚀
+⚡ Fun Fact: I love writing code, solving problems, and learning new technologies at lightning speed! 🚀</p>
 
 ## 🏆Awards & Achievements
 
