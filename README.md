@@ -4,35 +4,20 @@
 
   <h3 align="center">Passionate Software Engineer | Full-Stack Developer | Innovator</h3>  
   <h3 align="center">🧠 My mind operates in computational logic, where algorithms define my vernacular.</h3>
+  
+  <p>👨‍💻 Explore My Work: <a href="https://developerarsalanahmed.com" target="_blank">developerarsalanahmed.com</a></p> <br/>  
+  🌟 New on Fiverr: Open for Freelance Projects <br/>  
+  📱 Google Play Developer: SmartLearningApps <br/>  
+  🏆 50+ Projects Completed | Collaborated with National & International Clients <br/>  
+  ⌨️ 1000+ Hours of Coding | 50+ GitHub Repositories <br/>
 
-# 🚀 Arsalan Ahmed
-
-<div style="display: flex; align-items: center; justify-content: center; max-width: 1200px; background: white; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px;">
-
-    <!-- Left Side: Text Content -->
-    <div style="flex: 1; padding-right: 20px;">
-        <p><strong>🎓 BS in Software Engineering | 1st Position Silver Medalist</strong></p>
-        <p>👨‍💻 Explore My Work: <a href="https://developerarsalanahmed.com" target="_blank">developerarsalanahmed.com</a></p>
-        <p>🌟 New on Fiverr: Open for Freelance Projects</p>
-        <p>📱 Google Play Developer: SmartLearningApps</p>
-        <p>🏆 50+ Projects Completed | Collaborated with National & International Clients</p>
-        <p>⌨️ 1000+ Hours of Coding | 50+ GitHub Repositories</p>
-
-        <p><strong>💡 Tech Stack & Expertise:</strong></p>
-        <p>📱 Application Development: Android Native (Java)</p>
-        <p>🚀 Web Development: Next.js, Node.js, Express, React, Laravel, PHP, Web 3, Python</p>
-        <p>📊 Database: MySQL, AWS RDS, MongoDB, PostgreSQL</p>
-        <p>🔐 InfoSec Enthusiast | DevOps & Cloud Computing</p>
-        <p>🤝 Open to Collaboration on Open Source Projects</p>
-        <p>⚡ Fun Fact: I love writing code, solving problems, and learning new technologies at lightning speed!</p>
-    </div>
-
-    <!-- Right Side: Image -->
-    <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-        <img src="intro.png" alt="Arsalan Ahmed Intro" style="max-width: 100%; border-radius: 10px;">
-    </div>
-
-</div>
+💡 <strong>Tech Stack & Expertise:</strong> <br/>  
+ 📱 Application Development: Android Native (Java) <br/>  
+ 🚀 Web Development: Next.js, Node.js, Express, React, Laravel, PHP, Web 3, Python <br/>  
+ 📊 Database: MySQL, AWS RDS, MongoDB, PostgreSQL <br/>  
+ 🔐 InfoSec Enthusiast | DevOps & Cloud Computing <br/>  
+ 🤝 Open to Collaboration on Open Source Projects <br/>
+⚡ Fun Fact: I love writing code, solving problems, and learning new technologies at lightning speed! 🚀
 
 ## 🏆Awards & Achievements
 
