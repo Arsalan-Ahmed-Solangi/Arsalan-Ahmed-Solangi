@@ -1,29 +1,44 @@
-<p align="center">
-  <img src="intro.png" alt="Arsalan-Ahmed-Intro" width="100%">
-</p>
+  <p align="center">
+    <img src="intro.png" alt="Arsalan-Ahmed-Intro" width="100%">
+  </p>
 
-<h3 align="center">Passionate Software Engineer | Full-Stack Developer | Innovator</h3>  
-<h3 align="center">🧠 My mind operates in computational logic, where algorithms define my vernacular.</h3>
+  <h3 align="center">Passionate Software Engineer | Full-Stack Developer | Innovator</h3>  
+  <h3 align="center">🧠 My mind operates in computational logic, where algorithms define my vernacular.</h3>
 
-🎓 BS in Software Engineering | 1st Position Silver Medalist <br/>  
-👨‍💻 Explore My Work: <a href="https://developerarsalanahmed.com" target="_blank">developerarsalanahmed.com</a> <br/>  
-🌟 New on Fiverr: Open for Freelance Projects <br/>  
-📱 Google Play Developer: SmartLearningApps <br/>  
-🏆 50+ Projects Completed | Collaborated with National & International Clients <br/>  
-⌨️ 1000+ Hours of Coding | 50+ GitHub Repositories <br/>
+# 🚀 Arsalan Ahmed
 
-💡 <strong>Tech Stack & Expertise:</strong> <br/>  
-📱 Application Development: Android Native (Java) <br/>  
-🚀 Web Development: Next.js, Node.js, Express, React, Laravel, PHP, Web 3, Python <br/>  
-📊 Database: MySQL, AWS RDS, MongoDB, PostgreSQL <br/>  
-🔐 InfoSec Enthusiast | DevOps & Cloud Computing <br/>  
-🤝 Open to Collaboration on Open Source Projects <br/>
-⚡ Fun Fact: I love writing code, solving problems, and learning new technologies at lightning speed! 🚀
+<div style="display: flex; align-items: center; justify-content: center; max-width: 1200px; background: white; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px;">
+
+    <!-- Left Side: Text Content -->
+    <div style="flex: 1; padding-right: 20px;">
+        <p><strong>🎓 BS in Software Engineering | 1st Position Silver Medalist</strong></p>
+        <p>👨‍💻 Explore My Work: <a href="https://developerarsalanahmed.com" target="_blank">developerarsalanahmed.com</a></p>
+        <p>🌟 New on Fiverr: Open for Freelance Projects</p>
+        <p>📱 Google Play Developer: SmartLearningApps</p>
+        <p>🏆 50+ Projects Completed | Collaborated with National & International Clients</p>
+        <p>⌨️ 1000+ Hours of Coding | 50+ GitHub Repositories</p>
+
+        <p><strong>💡 Tech Stack & Expertise:</strong></p>
+        <p>📱 Application Development: Android Native (Java)</p>
+        <p>🚀 Web Development: Next.js, Node.js, Express, React, Laravel, PHP, Web 3, Python</p>
+        <p>📊 Database: MySQL, AWS RDS, MongoDB, PostgreSQL</p>
+        <p>🔐 InfoSec Enthusiast | DevOps & Cloud Computing</p>
+        <p>🤝 Open to Collaboration on Open Source Projects</p>
+        <p>⚡ Fun Fact: I love writing code, solving problems, and learning new technologies at lightning speed!</p>
+    </div>
+
+    <!-- Right Side: Image -->
+    <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+        <img src="intro.png" alt="Arsalan Ahmed Intro" style="max-width: 100%; border-radius: 10px;">
+    </div>
+
+</div>
 
 ## 🏆Awards & Achievements
 
-🥇 Innovative Idea Award (2023): Recognized for developing an AI-based Geographic Information System (GIS) with an automated routing algorithm at Salesflo as a Software Engineer. <br/>  
-🥇 Agile Award (2024): Honored for efficiently meeting customer needs and delivering high-quality solutions as a Senior Software Engineer. <br/>
+🏅 1st Position Silver Medalist – BS in Software Engineering
+🥇 Innovative Idea Award (2023) – Recognized for developing an AI-based Geographic Information System (GIS) with an automated routing algorithm at Salesflo.(GIS) with an automated routing algorithm at Salesflo as a Software Engineer. <br/>  
+ 🥇 Agile Award (2024) – Honored for efficiently meeting customer needs and delivering high-quality solutions as a Senior Software Engineer <br/>
 
 ## 🌐Socials
 
@@ -37,9 +52,9 @@
 
 ### [Route Creator Express](https://www.npmjs.com/package/route-creator-express)
 
-<p align="center">
-  <img src="npmpackage.png" alt="NPM Package" width="100%">
-</p>
+  <p align="center">
+    <img src="npmpackage.png" alt="NPM Package" width="100%">
+  </p>
 
 **Description:** The Router Creator is a CLI tool that allows you to quickly generate routing functionality for Express applications, similar to Laravel's routing system. It helps developers easily create route files with just one command, streamlining the setup of routes without needing to manually write them. The package supports ES6 modules and file extensions like .js, .ts, and .mjs.
 
@@ -49,25 +64,25 @@
 
 # 📊GitHub Stats & 🏆GitHub Trophies:
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arsalan-Ahmed-Solangi&theme=react&hide_border=true&include_all_commits=true&count_private=false&card_width=400" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsalan-Ahmed-Solangi&theme=react&hide_border=true&card_width=400" alt="GitHub Streak" />
-</div>
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arsalan-Ahmed-Solangi&theme=react&hide_border=true&include_all_commits=true&count_private=false&card_width=400" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsalan-Ahmed-Solangi&theme=react&hide_border=true&card_width=400" alt="GitHub Streak" />
+  </div>
 
-<div style="display: flex; justify-content: center;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan-Ahmed-Solangi&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-      <img src="https://github-profile-trophy.vercel.app/?username=Arsalan-Ahmed-Solangi&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan-Ahmed-Solangi&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Arsalan-Ahmed-Solangi&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  </div>
 
-<!-- # 📊GitHub Stats :
+  <!-- # 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=Arsalan-Ahmed-Solangi&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arsalan-Ahmed-Solangi&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan-Ahmed-Solangi&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=Arsalan-Ahmed-Solangi&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Arsalan-Ahmed-Solangi&theme=react&hide_border=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan-Ahmed-Solangi&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
+  ## 🏆GitHub Trophies
 
-![](https://github-trophies.vercel.app/?username=Arsalan-Ahmed-Solangi&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4) -->
+  ![](https://github-trophies.vercel.app/?username=Arsalan-Ahmed-Solangi&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4) -->
 
 ### ✍️Random Dev Quote
 
