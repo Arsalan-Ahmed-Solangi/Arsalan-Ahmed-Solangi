@@ -5,10 +5,10 @@
   <h3 align="center">Passionate Software Engineer | Full-Stack Developer | Innovator</h3>  
   <h3 align="center">🧠 My mind operates in computational logic, where algorithms define my vernacular.</h3>
   
-  <p>👨‍💻 Explore My Work: <a href="https://developerarsalanahmed.com" target="_blank">developerarsalanahmed.com</a>
-  🌟 New on Fiverr: Open for Freelance Projects. 
-  📱 Google Play Developer: SmartLearningApps.   
-  🏆 50+ Projects Completed | Collaborated with National & International Clients  
+  <p>👨‍💻 Explore My Work: <a href="https://developerarsalanahmed.com" target="_blank">developerarsalanahmed.com</a><br/>
+  🌟 New on Fiverr: Open for Freelance Projects. <br/>
+  📱 Google Play Developer: SmartLearningApps. <br/>  
+  🏆 50+ Projects Completed | Collaborated with National & International Clients  <br/>
   ⌨️ 1000+ Hours of Coding | 50+ GitHub Repositories</p>
 
 💡 <strong>Tech Stack & Expertise:</strong> <br/>  
