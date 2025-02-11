@@ -52,7 +52,7 @@
 
   <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Arsalan-Ahmed-Solangi&theme=react&hide_border=true&include_all_commits=true&count_private=false&card_width=400" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsalan-Ahmed-Solangi&theme=react&hide_border=true&card_width=400" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Arsalan-Ahmed-Solangi&theme=react&hide_border=true&card_width=400" alt="GitHub Streak" />
   </div>
 
   <div style="display: flex; justify-content: center;">
