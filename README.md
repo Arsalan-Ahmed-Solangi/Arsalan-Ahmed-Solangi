@@ -1,5 +1,5 @@
   <p align="center">
-    <img src="dev.jpg" alt="Arsalan-Ahmed-Intro" width="100%">
+    <img src="intro.png" alt="Arsalan-Ahmed-Intro" width="100%">
   </p>
 
   <h3 align="center">Passionate Software Engineer | Full-Stack Developer | Innovator</h3>  
